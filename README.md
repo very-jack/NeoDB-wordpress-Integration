@@ -13,3 +13,6 @@ curl -H "Authorization: Bearer YOUR_TOKEN" https://neodb.social/api/me
 在 Settings-NeoDB Settings 中输入 NeoDB Bearer Token。  
 
 1.1 - 新增手动更新按钮。
+
+参考资料：
+hcplantern 的 将 NeoDB 记录整合到 Hugo 中 
