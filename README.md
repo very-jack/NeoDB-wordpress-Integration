@@ -28,3 +28,6 @@ hcplantern 的 将 NeoDB 记录整合到 Hugo 中
 * 后台添加“清理图片缓存”按钮，点击后可以手动清理图片缓存。
 * 将 CSS 代码从 php 分离出来，便于后期管理。
 * 可参考文章 [NeoDB WordPress 插件优化](https://veryjack.com/technique/neodb-wordpress-plugin/)
+
+1.2.5
+* 调整了按钮样式，使界面更加和谐统一。
