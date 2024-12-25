@@ -13,11 +13,7 @@ curl -H "Authorization: Bearer YOUR_TOKEN" https://neodb.social/api/me
 在 Settings-NeoDB Settings 中输入 NeoDB Bearer Token。  
 
 1.1 - 新增手动更新按钮。
-
-参考资料：
-hcplantern 的 将 NeoDB 记录整合到 Hugo 中 
-
-1.2.4
+1.2
 * 短代码修改为了 [neodb_page]，无需输入其他参数。
 * 修改了样式，改为了垂直排布，并且适配了手机。
 * 顶部添加类型按钮，现在可以直接选择。
@@ -28,3 +24,7 @@ hcplantern 的 将 NeoDB 记录整合到 Hugo 中
 * 后台添加“清理图片缓存”按钮，点击后可以手动清理图片缓存。
 * 将 CSS 代码从 php 分离出来，便于后期管理。
 * 可参考文章 [NeoDB WordPress 插件优化](https://veryjack.com/technique/neodb-wordpress-plugin/)
+
+
+参考资料：
+hcplantern 的 [将 NeoDB 记录整合到 Hugo 中](https://hcplantern.top/posts/neodb-in-hugo/) 
