@@ -13,7 +13,7 @@ curl -H "Authorization: Bearer YOUR_TOKEN" https://neodb.social/api/me
 在 Settings-NeoDB Settings 中输入 NeoDB Bearer Token。  
 
 1.1 - 新增手动更新按钮。
-1.2
+1.2 -   
 * 短代码修改为了 [neodb_page]，无需输入其他参数。
 * 修改了样式，改为了垂直排布，并且适配了手机。
 * 顶部添加类型按钮，现在可以直接选择。
