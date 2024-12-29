@@ -34,6 +34,7 @@ curl -H "Authorization: Bearer YOUR_TOKEN" https://neodb.social/api/me
 
 1.2.6
 * 添加“recent”标签，可以在后台选择是否需要显示最近标签，并且可以选择最近的天数。
+* 对样式做了调整。
 
 
 参考资料：
